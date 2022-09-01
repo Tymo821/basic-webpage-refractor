@@ -18,3 +18,5 @@ WHEN I view the heading attributes
 THEN they fall in sequential order
 WHEN I view the title element
 THEN I find a concise, descriptive title
+![Screen Shot 2022-09-01 at 2 49 56 PM](https://user-images.githubusercontent.com/93955240/187990691-20418a99-0ae5-4e32-9497-efffe57b8468.png)
+![Screen Shot 2022-09-01 at 2 50 29 PM](https://user-images.githubusercontent.com/93955240/187990707-99d5197f-15c5-488e-abbb-95ec8277c885.png)
