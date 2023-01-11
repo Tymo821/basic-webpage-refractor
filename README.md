@@ -23,11 +23,10 @@ WHEN I view the title element
 THEN I find a concise, descriptive title
 
 ## Deployed Webpage url:
-http://127.0.0.1:5500/index.html 
+https://tymo821.github.io/webpage-refractor/
 
 ## Github url: 
-https://github.com/Tymo821/module-1-challenge.git 
+https://github.com/Tymo821/webpage-refractor
 
-Below you will find the screenshots of my completed webpage:
+## Screenshot of deployed webpage:
 ![Screen Shot 2022-09-01 at 2 49 56 PM](https://user-images.githubusercontent.com/93955240/187990691-20418a99-0ae5-4e32-9497-efffe57b8468.png)
-![Screen Shot 2022-09-01 at 2 50 29 PM](https://user-images.githubusercontent.com/93955240/187990707-99d5197f-15c5-488e-abbb-95ec8277c885.png)
